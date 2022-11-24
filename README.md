@@ -1,4 +1,4 @@
-### Hi there 👋 As yousee, my name is StarInk~
+### Hi there 👋 As you see, my name is StarInk~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="centre" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=StarDustSeemsInk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
