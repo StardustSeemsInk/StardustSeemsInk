@@ -6,6 +6,8 @@
   <img align="centre" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=StarDustSeemsInk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarDustSeemsInk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **StardustSeemsInk/StardustSeemsInk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
